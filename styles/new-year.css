@@ -120,7 +120,7 @@ font-size: 30px;
     font-size: 16px;
 }
 .gradient-pic{
-    background-image: url('../images/watch.png');
+    background-image: url('../images/gradient1.png');
    
     background-blend-mode: lighten;
     background-repeat: no-repeat, repeat;
@@ -144,6 +144,22 @@ width: 160px;
 height: 64px;
 left: 294px;
 margin-top: 24px;
+}
+.goal{
+    background-image: url("../images/wide-happy-new-year-2023-yellow-banner-modern-style_1017-40854.webp");
+    background-repeat: no-repeat, repeat;
+    width: 1140px;
+    height: 300px;
+    margin-left: 231px;
+    margin-right: 229px;
+    margin-bottom: 71px;
+    
+}
+.goal-title{
+margin-left: 180px;
+}
+.goal-text{
+  padding-left: 160px;  
 }
 footer{
     width: 100%;
