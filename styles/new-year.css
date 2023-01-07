@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+.banner{
+    background-image: url("../images/banner/banner3.png");
+    height: 808px;
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+}
+.banner-info{
+    align: right;
+    text-align: right;
+    padding-right: 230px;
+    display: inline;
+    
+    color: #FFFFFF;
+}
+.banner-title{
+    font-weight: 700;
+font-size: 65px;
+padding-top: 216px;
+width: 525px;
+padding-left: 845px;
+
+}
+.banner-description{
+    font-weight: 400;
+    width: 494px;
+font-size: 16px;
+padding-left: 876px;
+margin-top: 24px;
+margin-bottom: 32px;
+
+}
+button{
+    margin-right: 230px;
+    position: absolute;
+width: 160px;
+height: 64px;
+left: 1210px;
+font-weight: 600;
+font-size: 20px;
+border-radius: 5px;
+border-color: #FFFFFF;
+color: #005FAC;
+}
+
+.main-human{
+    margin-left: 206px;
+    display: flex;
+    margin-top: 153px;
+}
+.human-title{
+    font-weight: 700;
+font-size: 40px;
+padding-top: 240px;
+width: 288px;
+height: 94px;
+padding-left: 93px;
+}
+.human-description{
+    text-align: left;
+    padding-left: 93px;
+    padding-top: 24px;
+    width: 416px;
+    color: #444343;
+    font-weight: 400;
+font-size: 16px;
+
+}
+/* list item */
+.ul-tick {
+    list-style: none;
+    padding-left: 93px;
+    width: 416px;
+    padding-top: 16px;
+  }
+  
+ul li:before {
+    content: '✓';
+    color: aqua;
+  }
