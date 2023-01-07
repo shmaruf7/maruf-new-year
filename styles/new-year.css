@@ -81,3 +81,82 @@ ul li:before {
     content: '✓';
     color: aqua;
   }
+  .my-plans{
+    text-align: center;
+  }
+  .section-title{
+    font-weight: 700;
+font-size: 40px;
+text-align: center;
+margin-top: 107px;
+
+  }
+
+  .skills-container{
+    display: flex;
+    gap: 86px;
+    margin-right: 229px;
+    margin-left: 230px;
+    height: 203px;
+    margin-top: 50px;
+    margin-bottom: 190px;
+    text-align: center;
+}
+.skill{
+   
+    width: 250px;
+    border-radius: 5px;
+    padding: 30px;
+}
+.skill-title{
+    font-weight: 700;
+font-size: 30px;
+    padding-top: 24px;
+    padding-bottom: 16px;
+}
+.skills-description{
+    color: #757575;
+    font-weight: 400;
+    font-size: 16px;
+}
+.gradient-pic{
+    background-image: url('../images/gradient1.png');
+   
+    background-blend-mode: lighten;
+    background-repeat: no-repeat, repeat;
+    width: 1140px;
+    height: 300px;
+    margin-left: 231px;
+    margin-right: 229px;
+    margin-bottom: 71px;
+}
+h1{
+    padding-left: 63px;
+    font-weight: 700;
+font-size: 40px;
+width: 459px;
+color: #FFFFFF;
+
+}
+.gradient-button{
+    position: absolute;
+width: 160px;
+height: 64px;
+left: 294px;
+margin-top: 24px;
+}
+footer{
+    height: 557px;
+    background-color: #151414;
+}
+.bottom-left{
+    width: 485px;
+    height: 317px;
+    color: #FFFFFF;
+    margin-left: 230px;
+    
+    padding-top: 130px;
+}
+.face{
+    height: 47px;
+}
